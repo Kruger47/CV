@@ -1,0 +1,79 @@
+body {
+  background-color: #dbe2ef;
+  text-align: center;
+}
+
+hr {
+  background-color: #dbe2ef;
+  border-color: white;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3f72af;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Top Contaner */
+.image{
+  margin-bottom:50px;
+}
+/* End of Top Contaner */
+
+/* Other Courses */
+.courses{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+/* End of Other Courses */
+
+/* Work-Experience */
+.Work-Experience{
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 50px;
+}
+/* End of Work-Experience */
+
+/* IT Contaner */
+.IT-container{
+text-align: center;
+margin-bottom: 50px;
+}
+.IT-skills{
+  margin-top: 50px;
+}
+.skills{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+.Webpage{
+  margin-bottom: 50px;
+}
+/* end of IT Contaner */
+
+/* Footer */
+.footer-container{
+  text-align: center;
+}
+.contact{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.legal{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #838383;
+}
+.legal-2{
+  margin-top: 200px;
+  color: #838383;
+}
+/* end of Footer */
